@@ -10,10 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     
     @IBOutlet weak var tableView : UITableView!
-    // Git test update
 
-    
-    
     var users: [User] = []
     
     override func viewDidLoad() {
