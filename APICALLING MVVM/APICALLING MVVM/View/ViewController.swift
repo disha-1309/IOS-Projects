@@ -8,9 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
-    //git example
-    
+        //git example
     let tableView = UITableView()
     let activityIndicator = UIActivityIndicatorView(style: .large)
     let refreshControl = UIRefreshControl()
